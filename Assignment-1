@@ -1,0 +1,3 @@
+Q.What is compiler and Interpreter?
+A.A compiler is a program that reads a program written in the high-level language and converts it into the machine or low-level language and reports the errors present in the program. It converts the entire source code in one go or could take multiple passes to do so, but at last, the user gets the compiled code which is ready to execute. 
+  The interpreter is an alternative for and does the same work as a compiler but interpreter processes directly to execute statement rather than generating code from the syntax tree so An interpreter may require processing the same syntax tree more than once that is the reason why interpretation is comparatively slower than executing the compiled program.
