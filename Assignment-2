@@ -1,5 +1,5 @@
-Q:Take 2 values from command line argument and print sum of the two values.
-Ans:
+//Q:Take 2 values from command line argument and print sum of the two values.
+//Ans:
 public class SumOfNumbers4  
 {  
 public static void main(String args[])  
